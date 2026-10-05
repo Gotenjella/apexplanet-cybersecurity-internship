@@ -1,0 +1,56 @@
+# Security Tools Overview
+
+## 1. Wireshark
+
+Wireshark is a network protocol analyzer used to capture and inspect network traffic.
+
+### Main Uses
+
+- Packet capture
+- Network traffic analysis
+- Protocol identification
+- Network troubleshooting
+- Security investigation
+
+### Task 1 Usage
+
+Wireshark will be used to capture and analyze network traffic generated inside the authorized cybersecurity laboratory.
+
+---
+
+## 2. Nmap
+
+Nmap is a network discovery and security auditing tool.
+
+### Main Uses
+
+- Host discovery
+- Port scanning
+- Service identification
+- Network security assessment
+
+### Task 1 Usage
+
+Nmap will be used to scan the authorized laboratory target.
+
+### Example
+
+### 3. Burp Suite
+
+Burp Suite is a web application security testing platform.
+Main Uses
+- HTTP request interception
+- HTTP response analysis
+- Web traffic inspection
+- Web application security testing
+Task 1 Usage
+Burp Suite will be introduced during Task 1 and used extensively during the later Web Application Security task.
+
+### 4. Netcat
+
+Netcat is a networking utility used for network connections, testing, troubleshooting, and network debugging.
+Main Uses
+- Network connectivity testing
+- TCP/UDP communication
+- Network troubleshooting
+- Service interaction
